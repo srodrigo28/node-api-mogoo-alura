@@ -8,9 +8,9 @@ const livros = [
 ]
 
 const jogos = [
-    {id: 01, "titulo": "Street Fighter III", "ano": 2000},
-    {id: 02, "titulo": "Street Fighter IV", "ano": 2005},
-    {id: 03, "titulo": "Street Fighter V", "ano": 2010},
+    {id: 1, "titulo": "Street Fighter III", "ano": 2000},
+    {id: 2, "titulo": "Street Fighter IV", "ano": 2005},
+    {id: 3, "titulo": "Street Fighter V", "ano": 2010}
 ]
 
 app.get('/', (req, res) => {
